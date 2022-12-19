@@ -76,7 +76,7 @@ class YoutubeLive():
                                     <img src=":thumbnail_url:">
                                 </div>
                                 <div class="content">
-                                    <a class="header">:title:</a>
+                                    <a class="header" href=":url:" target="_blank" rel="noopener noreferrer">:title:</a>
                                     <div class="meta">
                                         <span class="date">:date:</span>
                                     </div>
@@ -93,6 +93,7 @@ class YoutubeLive():
 
         chapters_block = self.__chapters.to_html()
         block = base_block.replace(':thumbnail_url:', self.thumbnail).\
+                           replace(':url:', self.url).\
                            replace(':title:', self.title).\
                            replace(':date:', self.format_date()).\
                            replace(':chapters_block:', chapters_block).\
