@@ -10,7 +10,7 @@ def get_api(url: str) -> str:
 
     return response.json()
 
-def create_header_text() -> str:
+def create_markdown_header_text() -> str:
     header = '''# このみさんのお歌リスト（歌枠）
 
 :::info
@@ -21,7 +21,7 @@ def create_header_text() -> str:
     return header
 
 def save_to_markdown(youtube_lives: YoutubeLives):
-    header = create_header_text()
+    header = create_markdown_header_text()
     lives_md = youtube_lives.to_markdown('##', '1.')
 
     with open('live_md.md', 'w', encoding='utf-8') as f:
