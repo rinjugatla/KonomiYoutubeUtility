@@ -12,5 +12,5 @@ class YoutubeLives():
     def to_markdown(self, prefix_live: str = '', prefix_chapter: str = '') -> str:
         lives_md = [live.to_markdown(prefix_live, prefix_chapter) for live in  self.__lives]
 
-        text = '\n'.join(lives_md)
+        text = '\n\n'.join(lives_md)
         return text
