@@ -37,7 +37,7 @@ class YoutubeLive():
     def date(self) -> datetime:
         return self.__date
 
-    def format_date(self, format: str = '%Y-%m-%d %H:%M:%S') -> str:
+    def format_date(self, format: str = '%Y-%m-%d') -> str:
         return self.__date.strftime(format)
 
     @property
