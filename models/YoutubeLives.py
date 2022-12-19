@@ -16,10 +16,6 @@ class YoutubeLives():
         return text
 
     def to_html(self) -> str:
-        html = [live.to_html() for live in self.__lives]
-        return html
-
-    def to_html(self) -> str:
         base_block = '''<div class="ui equal width center aligned padded grid">
                             :lives_block:
                         </div>'''
