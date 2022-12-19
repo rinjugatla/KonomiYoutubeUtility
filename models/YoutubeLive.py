@@ -58,10 +58,13 @@ class YoutubeLive():
 
     def to_markdown(self, prefix_live: str = '', prefix_chapter: str = '') -> str:
         summary = f'[{self.title}]({self.url}) ({self.format_date()})'
+        if not self.can_play:
+            summary = f'~~{summary}~~ (再生不可)'
+
         if prefix_live != '':
             summary = f'{prefix_live} {summary}'
         
         chapters = self.__chapters.to_markdown(prefix_chapter)
-
+        
         text = f'{summary}\n{chapters}'
         return text
