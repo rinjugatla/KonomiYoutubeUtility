@@ -68,3 +68,35 @@ class YoutubeLive():
         
         text = f'{summary}\n\n{chapters}'
         return text
+
+    def to_html(self) -> str:
+        base_block = '''<div class="ui center aligned" style="margin-top:4em;">
+                            <div class="ui card">
+                                <div class="image">
+                                    <img src=":thumbnail_url:">
+                                </div>
+                                <div class="content">
+                                    <a class="header">:title:</a>
+                                    <div class="meta">
+                                        <span class="date">:date:</span>
+                                    </div>
+                                    <div class="description">
+                                        :chapters_block:
+                                    </div>
+                                </div>
+                                <div class="extra content">
+                                    <i class="music icon"></i>
+                                    :chapter_count: Chapters
+                                </div>
+                            </div>
+                        </div>'''
+
+        chapters_block = self.__chapters.to_html()
+        block = base_block.replace(':thumbnail_url:', self.thumbnail).\
+                           replace(':title:', self.title).\
+                           replace(':date:', self.format_date()).\
+                           replace(':chapters_block:', chapters_block).\
+                           replace(':chapter_count:', str(self.__chapters.count))
+        
+        return block
+

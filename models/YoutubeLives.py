@@ -14,3 +14,18 @@ class YoutubeLives():
 
         text = '\n\n'.join(lives_md)
         return text
+
+    def to_html(self) -> str:
+        html = [live.to_html() for live in self.__lives]
+        return html
+
+    def to_html(self) -> str:
+        base_block = '''<div class="ui equal width center aligned padded grid">
+                            :lives_block:
+                        </div>'''
+
+        live_blocks = [live.to_html() for live in  self.__lives]
+        lives_block = '\n'.join(live_blocks)
+
+        block = base_block.replace(':lives_block:', lives_block)
+        return block

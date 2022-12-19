@@ -23,7 +23,25 @@ class Chapters():
         chapters = [chapter for chapter in self.__chapters if not chapter.is_music]
         return chapters
 
+    @property
+    def count(self) -> int:
+        result = len(self.__chapters)
+        return result
+
     def to_markdown(self, prefix: str = '') -> str:
         lines = [chapter.to_markdown(prefix) for chapter in self.__chapters]
         text = '\n'.join(lines)
         return text
+
+    def to_html(self) -> str:
+        base_block = '''<div class="ui segment">
+                            <div class="ui relaxed divided list">
+                                :chapters_block:
+                            </div>
+                        </div>'''
+        
+        chapter_blocks = [chapter.to_html() for chapter in self.__chapters]
+        chapters_block = '\n'.join(chapter_blocks)
+
+        block = base_block.replace(':chapters_block:', chapters_block)
+        return block

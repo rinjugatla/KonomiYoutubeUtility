@@ -61,3 +61,21 @@ class Chapter():
             text = f'{prefix} {text}'
 
         return text
+
+
+    def to_html(self) -> str:
+        base_block = '''<div class="item">
+                            <div class="content">
+                                <a href=":url:" target="_blank">
+                                    <div class="header">:title:</div>
+                                </a>
+                                :artists:
+                            </div>
+                        </div>'''
+
+        block = base_block.replace(':url:', self.url).\
+                           replace(':title:', self.title).\
+                           replace(':artists:', self.artists if self.is_music else '')
+        return block
+
+        
