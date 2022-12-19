@@ -66,5 +66,5 @@ class YoutubeLive():
         
         chapters = self.__chapters.to_markdown(prefix_chapter)
         
-        text = f'{summary}\n{chapters}'
+        text = f'{summary}\n\n{chapters}'
         return text
