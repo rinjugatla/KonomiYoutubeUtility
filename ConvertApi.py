@@ -24,7 +24,7 @@ def save_to_markdown(youtube_lives: YoutubeLives):
     header = create_markdown_header_text()
     lives_md = youtube_lives.to_markdown('##', '1.')
 
-    with open('live_md.md', 'w', encoding='utf-8') as f:
+    with open('output/live_md.md', 'w', encoding='utf-8') as f:
         f.write(header)
         f.write('\n\n')
         f.write(lives_md)
@@ -59,7 +59,7 @@ def save_to_html(youtube_lives: YoutubeLives):
     live_block = youtube_lives.to_html()
     html = base_block.replace(':live_block:', live_block)
 
-    with open('index.html', 'w', encoding='utf-8') as f:
+    with open('output/index.html', 'w', encoding='utf-8') as f:
         f.write(html)
 
 api_url = 'https://api.mofucloud.com/archive/videos?_sort=date_published'
@@ -68,4 +68,5 @@ if live_data is None:
     exit()
 
 youtube_lives = YoutubeLives(live_data)
+save_to_markdown(youtube_lives)
 save_to_html(youtube_lives)
