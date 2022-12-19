@@ -22,7 +22,7 @@ def create_header_text() -> str:
 
 def save_to_markdown(youtube_lives: YoutubeLives):
     header = create_header_text()
-    lives_md = youtube_lives.to_markdown('##', '1. ')
+    lives_md = youtube_lives.to_markdown('##', '1.')
 
     with open('live_md.md', 'w', encoding='utf-8') as f:
         f.write(header)
