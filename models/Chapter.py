@@ -66,7 +66,7 @@ class Chapter():
     def to_html(self) -> str:
         base_block = '''<div class="item">
                             <div class="content">
-                                <a href=":url:" target="_blank">
+                                <a href=":url:" target="_blank" rel="noopener noreferrer">
                                     <div class="header">:title:</div>
                                 </a>
                                 :artists:
