@@ -211,28 +211,6 @@
 1. [キューティーハニー](https://www.youtube.com/watch?v=AEQkVcTTaxk&t=2623s) 前川陽子
 1. [～エンディングトーク～](https://www.youtube.com/watch?v=AEQkVcTTaxk&t=2805s)
 
-## [少しうたう](https://www.youtube.com/watch?v=nqTsJZgVqOk) (2021-10-08)
-
-1. [～オープニング～](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=0s)
-1. [弱虫モンブラン](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=55s) DECO*27
-1. [いかないで](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=371s) 想太
-1. [だから僕は音楽を辞めた](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=613s) ヨルシカ
-1. [なんでもないや(movie ver.)](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=706s) RADWIMPS
-1. [命に嫌われている。](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=816s) カンザキイオリ
-1. [独りんぼエンヴィー](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=909s) koyori（電ポルP）
-1. [サリシノハラ](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=1120s) みきとP
-1. [ガーネット](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=1391s) 奥華子
-1. [変わらないもの](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=1501s) 奥華子
-1. [インフェルノ](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=1780s) Mrs. GREEN APPLE
-1. [ハム太郎とっとこうた](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=1890s) ハムちゃんず
-1. [Rolling star](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=1931s) YUI
-1. [夜明けと蛍](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=2186s) ナブナ
-1. [ヴァンパイア](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=2625s) DECO*27
-1. [ハナミズキ](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=2806s) 一青窈
-1. [ダンスロボットダンス](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=3196s) ナユタン星人
-1. [シャルル](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=3248s) バルーン
-1. [～エンディング～](https://www.youtube.com/watch?v=nqTsJZgVqOk&t=3487s)
-
 ## [【歌枠】朝うた　しっとり歌うんだよ](https://www.youtube.com/watch?v=SKCLp_3v_7g) (2021-10-12)
 
 1. [～オープニング～](https://www.youtube.com/watch?v=SKCLp_3v_7g&t=0s)
