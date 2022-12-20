@@ -1,4 +1,5 @@
 from models.YoutubeLives import YoutubeLives
+from bs4 import BeautifulSoup as bs
 
 def __markdown_header() -> str:
     header = '''# このみさんのお歌リスト（歌枠）
@@ -46,5 +47,6 @@ def to_html(youtube_lives: YoutubeLives) -> str:
 
     live_block = youtube_lives.to_html()
     html = base_block.replace(':live_block:', live_block)
+    soup = bs(html, 'html.parser')
 
-    return html
+    return soup.prettify()
