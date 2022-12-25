@@ -1030,3 +1030,25 @@
 1. [気まぐれロマンティック](https://www.youtube.com/watch?v=YvRxl5ZD6zs&t=7662s) いきものがかり
 1. [～線画完成～](https://www.youtube.com/watch?v=YvRxl5ZD6zs&t=7913s)
 1. [～エンディング～](https://www.youtube.com/watch?v=YvRxl5ZD6zs&t=8004s)
+
+## [【歌枠】くりすますいぶ歌！【まったり】](https://www.youtube.com/watch?v=x948ugIxdhc) (2022-12-24)
+
+1. [～オープニングトーク～](https://www.youtube.com/watch?v=x948ugIxdhc&t=0s)
+1. [雪峰 ～yukimine～](https://www.youtube.com/watch?v=x948ugIxdhc&t=605s) 彩音P
+1. [粉雪](https://www.youtube.com/watch?v=x948ugIxdhc&t=947s) レミオロメン
+1. [～雑談：水を2リットル飲む～](https://www.youtube.com/watch?v=x948ugIxdhc&t=1275s)
+1. [Calc.](https://www.youtube.com/watch?v=x948ugIxdhc&t=1650s) ジミーサムP
+1. [～雑談：クリスマスケーキ～](https://www.youtube.com/watch?v=x948ugIxdhc&t=1885s)
+1. [夜明けと蛍](https://www.youtube.com/watch?v=x948ugIxdhc&t=2234s) ナブナ
+1. [～雑談：次何歌うかな？～](https://www.youtube.com/watch?v=x948ugIxdhc&t=2553s)
+1. [ハロ／ハワユ](https://www.youtube.com/watch?v=x948ugIxdhc&t=2867s) ナノウ
+1. [アイロニ](https://www.youtube.com/watch?v=x948ugIxdhc&t=3159s) すこっぷ
+1. [～雑談：次何歌うんだっけ…～](https://www.youtube.com/watch?v=x948ugIxdhc&t=3413s)
+1. [メリーメリー](https://www.youtube.com/watch?v=x948ugIxdhc&t=3579s) 一億円P
+1. [～雑談：ありがたいお言葉～](https://www.youtube.com/watch?v=x948ugIxdhc&t=3861s)
+1. [初めての恋が終わる時](https://www.youtube.com/watch?v=x948ugIxdhc&t=4029s) ryo
+1. [Winter Love](https://www.youtube.com/watch?v=x948ugIxdhc&t=4430s) BoA
+1. [～雑談：レパートリーの終わり～](https://www.youtube.com/watch?v=x948ugIxdhc&t=4768s)
+1. [～雑談：クリスマスイラスト先行公開～](https://www.youtube.com/watch?v=x948ugIxdhc&t=5198s)
+1. [～宣伝と告知～](https://www.youtube.com/watch?v=x948ugIxdhc&t=5620s)
+1. [～エンディング～](https://www.youtube.com/watch?v=x948ugIxdhc&t=5848s)
