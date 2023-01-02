@@ -1052,3 +1052,23 @@
 1. [～雑談：クリスマスイラスト先行公開～](https://www.youtube.com/watch?v=x948ugIxdhc&t=5198s)
 1. [～宣伝と告知～](https://www.youtube.com/watch?v=x948ugIxdhc&t=5620s)
 1. [～エンディング～](https://www.youtube.com/watch?v=x948ugIxdhc&t=5848s)
+
+## [【歌/雑談】２０２２年振り返り！歌ったり食べたりまったりしたり！【今年もありがとうございました！】](https://www.youtube.com/watch?v=40wPgwAUUVM) (2022-12-31)
+
+1. [～オープニング～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=0s)
+1. [～雑談：2022年振り返り(?)～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=86s)
+1. [～ハイテンポゾーン突入～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=2241s)
+1. [キャットラビング](https://www.youtube.com/watch?v=40wPgwAUUVM&t=2299s) 香椎モイミ
+1. [私は最強](https://www.youtube.com/watch?v=40wPgwAUUVM&t=2374s) Ado
+1. [リンネ](https://www.youtube.com/watch?v=40wPgwAUUVM&t=2494s) ハチ
+1. [QUEEN](https://www.youtube.com/watch?v=40wPgwAUUVM&t=2759s) Kanaria
+1. [ヒバナ](https://www.youtube.com/watch?v=40wPgwAUUVM&t=2827s) DECO*27
+1. [エイリアンエイリアン](https://www.youtube.com/watch?v=40wPgwAUUVM&t=2899s) ナユタン星人
+1. [太陽系デスコ](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3019s) ナユタン星人
+1. [チューリングラブ](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3068s) ナナヲアカリ
+1. [～気を取り直して～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3152s)
+1. [繰り返し一粒](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3361s) 猫虫P
+1. [君の体温](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3654s) クワガタP
+1. [～雑談：サラダチキンがぁ…～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3716s)
+1. [～雑談：2022年振り返り！～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3867s)
+1. [～エンディング～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=7352s)
