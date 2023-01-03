@@ -1072,3 +1072,21 @@
 1. [～雑談：サラダチキンがぁ…～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3716s)
 1. [～雑談：2022年振り返り！～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=3867s)
 1. [～エンディング～](https://www.youtube.com/watch?v=40wPgwAUUVM&t=7352s)
+
+## [【歌枠】あけおめ！新春うたうたい【まったり】](https://www.youtube.com/watch?v=cqoH3NG3iYc) (2023-01-03)
+
+1. [～オープニング～](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=0s)
+1. [ギラギラ](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=401s) Ado
+1. [ダイアモンド クレバス](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=683s) シェリル・ノーム（May'n）
+1. [神のまにまに](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=1027s) れるりり
+1. [1925](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=1287s) とみー（ショコラビット）
+1. [キューティーハニー](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=1521s) 前川陽子
+1. [恋愛サーキュレーション](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=1710s) 花澤香菜
+1. [～雑談：忘れられない声～](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=1972s)
+1. [サクラノ前夜](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=2936s) ほえほえP
+1. [glow](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=3638s) keeno
+1. [fix](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=3922s) keeno
+1. [drop](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=4216s) keeno
+1. [crack](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=4548s) keeno
+1. [またあした](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=4826s) ふわりP
+1. [～エンディング～](https://www.youtube.com/watch?v=cqoH3NG3iYc&t=5154s)
