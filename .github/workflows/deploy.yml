@@ -5,14 +5,13 @@ on:
     branches:
       - master
 
+defaults:
+  run:
+    working-directory: ./svelte
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    defaults:
-      uses:
-        working-directory: ./svelte
-      run:
-        working-directory: ./svelte
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -22,6 +21,7 @@ jobs:
         with:
           node-version: '18'
           cache: npm
+          cache-dependency-path: ./svelte/package-lock.json
 
       - run: npm install
 
