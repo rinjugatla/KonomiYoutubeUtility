@@ -9,8 +9,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     defaults:
+      uses:
+        working-directory: ./svelte
       run:
-        working-directory: svelte
+        working-directory: ./svelte
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
