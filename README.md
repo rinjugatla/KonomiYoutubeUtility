@@ -18,4 +18,4 @@
     [このみさんのお歌リスト（歌枠）](https://hackmd.io/@AKoBVtp8QFOFc-VzYJVtzA/rkOcmGjui)
 
 - HTML版(サムネイル付き)
-    [このみさんのお歌リスト（歌枠）](https://rinjugatla.github.io/KonomiYoutubeUtility/output/)
+    [このみさんのお歌リスト（歌枠）](https://rinjugatla.github.io/KonomiYoutubeUtility/python/output/)
