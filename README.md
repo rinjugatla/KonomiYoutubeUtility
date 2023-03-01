@@ -1,21 +1,25 @@
 # KonomiYoutubeUtility
 
 - [古槻このみ](https://www.youtube.com/@hrtk_knm/featured)さんのお歌枠をまとめるツール
+- [配信一覧ページ](https://rinjugatla.github.io/KonomiYoutubeUtility/)
 
 ## 環境構築
 
-1. python -m venv venv
-2. venv/Script/active
-3. pip install -r requirements.txt
+### Svelte版(自動更新)
 
-## Markdown出力
+1. cd svelte
+2. npm install
+3. npm run dev または npm run build
+
+### Python版
+
+1. cd python
+2. python -m venv venv
+3. venv/Script/active
+4. pip install -r requirements.txt
+
+#### 曲リストの更新(手動更新)
+
+python/outputにMarkdown, HTMLが出力されます。
 
 1. python ConvertApi.py
-
-## 公開場所
-
-- マークダウン版
-    [このみさんのお歌リスト（歌枠）](https://hackmd.io/@AKoBVtp8QFOFc-VzYJVtzA/rkOcmGjui)
-
-- HTML版(サムネイル付き)
-    [このみさんのお歌リスト（歌枠）](https://rinjugatla.github.io/KonomiYoutubeUtility/python/output/)
