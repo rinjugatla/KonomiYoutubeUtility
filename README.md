@@ -23,3 +23,10 @@
 python/outputにMarkdown, HTMLが出力されます。
 
 1. python ConvertApi.py
+
+## 歌枠情報の取得
+
+以下から曲の情報を取得しています。
+
+- [このみさんのお歌リスト（歌枠）](https://hackmd.io/@spaghetti/Hkvij39ds)
+- [このみさんのお歌リスト（歌枠）API ドキュメント](https://hackmd.io/@spaghetti/Hkvij39ds#API-%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88)
